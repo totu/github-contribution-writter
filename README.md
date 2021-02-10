@@ -11,10 +11,9 @@ Make a script that takes in a string and path to repo. The script figures out on
 The commit chart is 7 by Something-wide for text to look nice let's use 5x3 letters leaving one row on top and below of a letter and one column in between.
 
 # TODO
-- [*] Figure a way to add letters
+- [x] Figure a way to add letters
 - [ ] Add all letters
-- [*] Generate boolean representation of written text
+- [x] Generate boolean representation of written text
 - [ ] How to track days
 - [ ] Figure out where to run the script
-- [ ] ???
 - [ ] PROFIT!
